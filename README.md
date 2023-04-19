@@ -1,0 +1,1 @@
+This is my project for The Odin Project's Recipes HTML Basics assigment. By the end of this I hope to demonstrate ability to utilize basic HTML functions to create a linkable html page. 
