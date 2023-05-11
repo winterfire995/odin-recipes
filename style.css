@@ -1,0 +1,16 @@
+* {
+    font-family: "Comic Sans", "Lucida Sans", sans-serif;
+}
+
+h1 {
+    background-color: teal;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+li {
+    background-color: lightgray;
+    font-style: italic;
+    color: blueviolet;
+}

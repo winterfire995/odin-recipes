@@ -1,0 +1,32 @@
+h1 {
+    background-color: teal;
+    color: white;
+    font-family: "Courier New", monospace;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: lightgray;
+    color: teal;
+    font-family: "Courier New", monospace;
+    font-size: 24px;
+    text-align: center;
+}
+
+p,h3,ul,li {
+    background-color: lavender;
+    color: darkslategray;
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.subhead {
+    text-align: left;
+    font-weight: normal;
+}
